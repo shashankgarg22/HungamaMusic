@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HungamaMusic</string>
+    <string name="gobal_name">Global Famous</string>
+    <string name="weekly_name">Weekly Trends</string>
+    <string name="Best_name">Best Artist</string>
+    <string name="playlist_name">My Playlist</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="global_famous">Global Famous</string>
+    <string name="weekly_trends">Weekly Trends</string>
+    <string name="best_artist">Best Artist</string>
+    <string name="my_playlist">My Playlist</string>
+    <string name="the_album_contains_top_100_most_streamed_songs_on_hungamamusic_app_with_streams_rounded_to_the_nearest_million">The album contains top 100 most streamed songs on HungamaMusic app with streams rounded to the nearest million.</string>
+    <string name="the_album_contains_weekly_trending_songs_of_hungamamusic_app_this_album_updates_every_week_according_to_the_trend">The album contains weekly trending songs of HungamaMusic app, this album updates every week according to the trend.</string>
+    <string name="the_album_contains_top_20_most_streamed_songs_of_best_artists_of_hungamamusic_app">The album contains top 20 most streamed songs of best artists of HungamaMusic app .</string>
+    <string name="this_is_your_own_customizable_playlist_choose_your_favourite_songs_out_of_millions_in_openmuzik_app">This is your own customizable playlist, choose your favourite songs out of millions in OpenMuzik app</string>
+    <string name="todo">TODO</string>
+</resources>
